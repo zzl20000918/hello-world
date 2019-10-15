@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+hi humans!
+
+zzl here i like codes.
